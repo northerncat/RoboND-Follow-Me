@@ -103,6 +103,7 @@ ENV/
 
 RUNS/
 
+data/train/
 data/train_combined/
 data/validation/
 data/sample_evaluation_data/
