@@ -1,3 +1,5 @@
+#### The repo is copied from Udacity's project repository at [RoboND Term 1 Deep Learning Project, Follow-Me](https://github.com/udacity/RoboND-DeepLearning-Project).
+
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 ## Deep Learning Project ##
